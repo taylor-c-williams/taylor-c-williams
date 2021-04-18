@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taylor-c-williams
-- 👀 I’m interested in ... Learning new skills and getting into coding seriously!
+- 👀 I’m interested in ... Learning new skills and transitioning into a professional role
 - 🌱 I’m currently learning ... Javascript, Python. Researching bootcamps. 
 - 💞️ I’m looking to collaborate on ... Internships, Mentorships
 - 📫 How to reach me ... taylor.callan.williams@gmail.com
