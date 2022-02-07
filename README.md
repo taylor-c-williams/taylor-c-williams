@@ -7,4 +7,4 @@
 - 📫 How to reach me ... taylor.callan.williams@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylor-c-williams&count_private=true)](https://github.com/taylor-c-williams)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylor-c-williams)](https://github.com/taylor-c-williams)
