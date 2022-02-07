@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m Taylor Callan Williams! 
+- 👋 Hi, I’m Taylor! 
 - 👀 I’m interested in ... React and other JavaScript frameworks!
 - 🌱 I’m currently learning ... PostgreSQL, Express, aggregate functions in SQL
 - 💞️ I’m looking to collaborate on ... New Ideas! 
