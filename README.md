@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ... New Ideas! 
 - 📫 How to reach me ... 
     	:mailbox_with_mail: taylor.callan.williams@gmail.com
-      :star: [linkedin.com/taylor-c-williams](http://www.linkedin.com/taylor-c-williams)
+      :star: [linkedin.com/in/taylor-c-williams](http://www.linkedin.com/in/taylor-c-williams)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylor-c-williams&hide=stars&show_icons=true&theme=radical)](https://github.com/taylor-c-williams)
