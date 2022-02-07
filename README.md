@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Taylor! 
 - 👀 I’m interested in ... React and other JavaScript frameworks!
-- 🌱 I’m currently learning ... PostgreSQL, Express, aggregate functions in SQL
+- 🌱 I’m currently learning ... PostgreSQL, Express, Aggregate functions in SQL
 - 💞️ I’m looking to collaborate on ... New Ideas! 
 - 📫 How to reach me ... 
     	:mailbox_with_mail: taylor.callan.williams@gmail.com
