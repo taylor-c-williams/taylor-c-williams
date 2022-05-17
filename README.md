@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Taylor! 
 - 👀 I’m interested in ... React and other JavaScript frameworks!
-- 🌱 I’m currently learning ... OAuth, PostgreSQL, Express, Aggregate functions in SQL
+- 🌱 I’m currently working on... A full stack job search tracking app- check out my progress @ https://seekr.netlify.app/ & https://github.com/taylor-c-williams/jobSeekrFE
 - 💞️ I’m looking to collaborate on ... New Ideas! 
 - 📫 How to reach me ... 
     	:mailbox_with_mail: taylor.callan.williams@gmail.com
