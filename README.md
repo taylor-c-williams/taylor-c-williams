@@ -1,14 +1,3 @@
-
-
-- 👋 Hi, I’m Taylor! 
-- 👀 I’m interested in ... React and other JavaScript frameworks!
-- 🌱 I’m currently working on... A full stack job search tracking app- check out my progress @ https://seekr.netlify.app/ !
-- 💞️ I’m looking to collaborate on ... New Ideas! 
-- 📫 How to reach me ... 
-    	:mailbox_with_mail: taylor.callan.williams@gmail.com
-      :star: [linkedin.com/in/taylor-c-williams](http://www.linkedin.com/in/taylor-c-williams)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylor-c-williams&hide=stars&show_icons=true&theme=radical)](https://github.com/taylor-c-williams)
 
 
